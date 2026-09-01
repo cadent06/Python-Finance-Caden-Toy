@@ -1,4 +1,4 @@
-ntro to Python — Final Project
+
 A terminal-based stock portfolio tracker. Enter your stocks, and the program pulls live price data from Yahoo Finance to show your gains or losses, analyze indicators, and generate charts.
 
 How It Works
